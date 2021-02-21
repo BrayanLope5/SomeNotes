@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MathJax_In_Node.md",
+            "file": "TestFiles/TestFile.md.md",
             "mode": "source"
           }
         }
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MathJax_In_Node.md",
+            "file": "TestFiles/TestFile.md.md",
             "mode": "preview"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MathJax_In_Node.md",
+                "file": "TestFiles/TestFile.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MathJax_In_Node.md"
+                "file": "TestFiles/TestFile.md.md"
               }
             }
           },
@@ -129,8 +129,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MathJax_In_Node.md",
     "TestFiles/TestFile.md.md",
+    "MathJax_In_Node.md",
     "Untitled.md"
   ]
 }
