@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "32a7d6ddfe18db90",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0e1d52ec92ac00",
+        "type": "leaf",
+        "dimension": 50.4247572815534,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MathJax_In_Node.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3a61b1fbf0def4a4",
+        "type": "leaf",
+        "dimension": 49.5752427184466,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MathJax_In_Node.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02b87524a7a9f0e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "570180eb975d409a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d90f39c19d8ef95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7862251c796d95aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe7859f79615feb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "335345838226da60",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7f77aedd2c93393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054f5a4bf3def22a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MathJax_In_Node.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99d6496f2371179e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MathJax_In_Node.md"
+              }
+            }
+          },
+          {
+            "id": "486e9d6c29d40ffd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "MathJax_In_Node.md",
+    "TestFiles/TestFile.md.md",
+    "Untitled.md"
+  ]
+}
