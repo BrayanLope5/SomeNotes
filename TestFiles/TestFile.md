@@ -40,3 +40,5 @@ Can I create numbered lists:
   
   Alright, and this, how does this look like...
   
+  This is an inline equation $f(x)=Sin(x)+Cos(x)$. And it works great.
+  
