@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0e1d52ec92ac00",
+        "id": "3a61b1fbf0def4a4",
         "type": "leaf",
-        "dimension": 50.42475728155339,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TestFiles/TestFile.md.md",
+            "file": "TestFiles/TestFile.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "3a61b1fbf0def4a4",
+        "id": "43b9050a86545789",
         "type": "leaf",
-        "dimension": 49.57524271844661,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TestFiles/TestFile.md.md",
+            "file": "TestFiles/TestFile.md",
             "mode": "preview"
           }
         }
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TestFiles/TestFile.md.md",
+                "file": "TestFiles/TestFile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TestFiles/TestFile.md.md"
+                "file": "TestFiles/TestFile.md"
               }
             }
           },
@@ -129,8 +127,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "TestFiles/TestFile.md.md",
+    "TestFiles/TestFile.md",
     "MathJax_In_Node.md",
+    "TestFiles/TestFile.md.md",
     "Untitled.md"
   ]
 }
