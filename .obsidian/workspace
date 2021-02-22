@@ -13,7 +13,8 @@
             "file": "TestFiles/TestFile.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "1e6a1405e4d43063"
       },
       {
         "id": "43b9050a86545789",
@@ -24,7 +25,8 @@
             "file": "TestFiles/TestFile.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "1e6a1405e4d43063"
       }
     ],
     "direction": "vertical"
